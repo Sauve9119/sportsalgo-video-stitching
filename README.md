@@ -152,7 +152,4 @@ tqdm>=4.66.0
 
 ---
 
-## Contact
 
-Built for SportsAlgo × ClayGrounds Hackathon  
-Problem domain: Computer Vision / Image Processing  
